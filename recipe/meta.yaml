@@ -22,10 +22,10 @@ requirements:
     - pip
     - poetry
     - python >=3.6
-    - tenacity
   run:
     - python >=3.6
     - requests
+    - tenacity
 
 test:
   imports:
