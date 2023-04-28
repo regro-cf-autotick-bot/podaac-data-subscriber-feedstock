@@ -1,5 +1,5 @@
 {% set name = "podaac-data-subscriber" %}
-{% set version = "1.13.0" %}
+{% set version = "1.13.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/podaac-data-subscriber-{{ version }}.tar.gz
-  sha256: 9e4e9e1ea53db6cbe363de5f8b5f8cb47b287c0a5427925dc401af4e0c0a544f
+  sha256: 2b28550ac5ba20cc7f48017059d088a819cd3e29d2dfde4cbefbf449bd14f4d3
 
 build:
   entry_points:
