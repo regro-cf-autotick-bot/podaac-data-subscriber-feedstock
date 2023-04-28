@@ -1,11 +1,11 @@
-About podaac-data-subscriber
-============================
+About podaac-data-subscriber-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/podaac-data-subscriber-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/podaac/data-subscriber
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/podaac-data-subscriber-feedstock/blob/main/LICENSE.txt)
 
 Summary: PO.DAAC Data Susbcriber Command Line Tool
 
